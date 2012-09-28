@@ -1,7 +1,7 @@
 dangerlibrary
 =============
 
-HTML/CSS/JS for my personal (website)[http://www.dangerlibrary.com].
+HTML/CSS/JS for my personal [website](http://www.dangerlibrary.com).
 
 I built this website from scratch, and it's going to evolve over time as I get better at this.  
 
