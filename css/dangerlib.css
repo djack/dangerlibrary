@@ -59,16 +59,17 @@ ul#top-nav {
 }
 
 li {
-	list-style-type: none;
-	list-style-position: outside;
-	list-style-image: none;
-	border-radius: 3px;
+    line-height: 18px;
 }
 
 .nav-li {
 	float: left;
 	width: 25%;
 	line-height: 40px;
+	list-style-type: none;
+	list-style-position: outside;
+	list-style-image: none;
+	border-radius: 3px;
 }
 
 li.nav-li:hover {
