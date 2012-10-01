@@ -55,7 +55,7 @@
 					
 				</div>
 				<div id="body-text">
-                                  <div id="lfw" style="background-color: #DDDDDD;font-size:1.4em;text-align:center;">
+				                                     <div id="lfw" style="background-color: #DDDDDD;font-size:1.4em;text-align:center;">
                                      I'm looking for work in Washington, DC!
                                      <br>
                                      You can see my resume
@@ -65,9 +65,8 @@
                                   </div>
 
 					<p> 
-						If you'd like to get in touch with me, you can 
-						<a href="mailto:dj@dangerlibrary.com">send me an email</a>.
-					</p>
+					  This location will soon host yet another tech nerd's blog. Check back soon!
+					</p>	
 				</div>
 			</div>
 			<footer>

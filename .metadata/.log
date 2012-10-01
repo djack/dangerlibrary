@@ -1,0 +1,9 @@
+!SESSION 2012-09-30 12:55:05.472 -----------------------------------------------
+eclipse.buildId=3.2.2.201208201020
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 4 566 2012-09-30 14:27:08.758
+!MESSAGE Workspace was not properly initialized or has already shutdown.
