@@ -97,9 +97,11 @@ li {
 	list-style-type: none;
 	list-style-position: outside;
 	list-style-image: none;
-	border-radius: 3px;
 }
 
+.nav-li:hover {
+	background-color: #F0F0F0;
+}
 
 a.nav-a:hover {
 	opacity: 1;
@@ -118,6 +120,7 @@ hr {
 	width: 100%;
 	overflow-x: hidden;
 	overflow-y: hidden;
+	border-radius: 4px;
 }
 
 #body-container {
@@ -179,6 +182,7 @@ p#copyright {
 }
 
 input#didyouknow {
+	cursor: pointer;
 	clear: left;
     display: inline-block;
     float: left;
