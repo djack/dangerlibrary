@@ -7,7 +7,8 @@
 		Remove this if you use the .htaccess -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-		<title>Danger Library</title> 		<meta name="description" content="" />
+		<title>Danger Library</title> 		
+		<meta name="description" content="David Jackson: Data Analyst, Computer Programmer" />
 		<meta name="author" content="DJ" />
 
 		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
@@ -22,11 +23,12 @@
 	<body>
 		<div id="main">
 			<header id="top-banner">
-				<a href="/">
-					<img src="images/logo.png" id="logo">
-				</a>
+				<div id="logo-container">
+					<a href="/">
+						<img src="images/logo-dark.png" id="logo"> 
+					</a>
+				</div>
 			</header>
-			<hr />
 			<div id="navigation">
 				<nav>
 					<ul id="top-nav">
@@ -45,24 +47,21 @@
 					</ul>
 				</nav>
 			</div>
-			<hr />
 			<div id="body-container">
 				<div id="sidebar">
-					<input type='button' id="didyouknow" onclick='changeText()' value='Did you know?'/>
-					<p>
-						Click the button above to learn a nifty fact about me! 
-					</p>
+					<input type='button' id='didyouknow' onclick='changeText()' value='Did you know?'/>
+						<p style="text-align:center;">
+							Click above to learn more about me! 
+						</p>
 					
 				</div>
 				<div id="body-text">
-				   <div id="lfw" style="background-color: #DDDDDD;font-size:1.4em;text-align:center;">
+				   <div id="lfw">
 				     I'm looking for work in Washington, DC!
 				     <br> 
 				     You can see my resume 
-				     <a href="images/resume.pdf">
-				       here
-				     </a> [pdf].
-                                  </div>
+				     <a href="images/resume.pdf">here</a>. [PDF]
+                    </div>
 					<p> 
 						Welcome! This is the personal website of David Jackson. I'm a 
 						computer programmer and data analyst currently living in Washington, 
